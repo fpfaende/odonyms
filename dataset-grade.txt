@@ -1,0 +1,33 @@
+Amiral
+Général
+Vice-amiral
+Contre-amiral
+Capitaine de vaisseau
+Colonel
+Capitaine de frégate
+Lieutenant-colonel
+Capitaine de corvette
+Commandant
+Lieutenant de vaisseau
+Enseigne de vaisseau
+Lieutenant
+Sous-lieutenant
+Aspirant
+Major
+Major
+Maître principal
+Adjudant-chef
+Premier maître
+Adjudant
+Maître
+Sergent-chef
+Gendarme
+Second maître
+Sergent
+Quartier maître
+Caporal-chef
+Caporal
+Brigadier
+Matelot
+Soldat
+Maréchal
